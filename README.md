@@ -4,6 +4,12 @@ Candex 让你在本地终端里使用 Claude。在项目目录运行 `candex`，
 
 站点：https://candex.dev/
 
+## Claude Code 使用流程
+
+安装 Candex，注册并登录，用 `candex init` 配对一次，然后在项目目录运行 `candex`。网页里的 ChatGPT 对话不会进到这场里。
+
+https://candex.dev/docs/claude-code-workflow
+
 ## candex init 怎么配对
 
 注册并登录后，在秘钥页复制 `candex init`，在终端运行一次。打印配对成功后，进入项目目录运行 `candex`。
